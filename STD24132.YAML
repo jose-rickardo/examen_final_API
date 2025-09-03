@@ -1,0 +1,9 @@
+  openapi: 3.0.3
+  info:
+    title: STD24132
+    description: This is a specification of STD24001
+    version: 1.0.0
+  servers:
+    - url: http://localhost:8000
+      description: Local development server
+  paths:
